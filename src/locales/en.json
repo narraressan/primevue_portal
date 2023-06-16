@@ -1,0 +1,29 @@
+{
+    "page": {
+        "404": {
+            "title": "404",
+            "heading": "Page Not Found",
+            "subheading": "Check if the page URL is correct. If you think this is an error, contact support. Thanks!"
+        },
+        "500": {
+            "title": "500",
+            "heading": "Internal server error",
+            "subheading": "A team of relatively capabale apes are working on it. Please come back later. Thank you!"
+        },
+        "Login": {
+            "infoTitle": "This is a title",
+            "infoSubtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In autem ipsa, nulla laboriosam dolores, repellendus perferendis libero suscipit nam temporibus molestiae",
+            "formHeading": "Sign in to access your account",
+            "formEmailField": "Email",
+            "formEmailPlaceholder": "johndoe@email.com",
+            "formPasswordField": "Password",
+            "formPasswordPlaceholder": "Your Password",
+            "formForgotPasswordField": "Forgot password?",
+            "formSubmitButton": "Sign in",
+            "loginWithSocialsLabel": "Or login with",
+            "formGoogleButton": "Google",
+            "formRegisterLabel": "Don't have an account yet?",
+            "formRegisterLink": "Sign up"
+        }
+    }
+}
