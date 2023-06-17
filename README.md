@@ -30,5 +30,6 @@ yarn test
 
 ### TODO
 
-- add github actions
-- fix `yarn build` error
+- add map page with mapbox
+- add register and reset password pages
+- integrate chatjs
