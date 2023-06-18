@@ -1,4 +1,4 @@
-# Simple UI template with Vue3
+# Simple UI boilerplate for Vue3 + Primevue
 
 This project is a showcase of my expertise in front-end development using Vue3. It demonstrates integration with Primevue and WindiCSS, CI/CD, Automated testing, and API integration.
 
